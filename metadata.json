@@ -1,0 +1,6 @@
+{
+  "name": "MedFlow AI - Clinical Decision Support & EHR Summarizer",
+  "description": "Multi-modal EHR summarizer, automated SOAP note generator, real-time drug interaction & allergy checker, and evidence-based clinical guideline RAG workstation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
